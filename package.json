@@ -1,0 +1,10 @@
+{
+  "name": "yarn1.0",
+  "version": "01",
+  "description": "hassan made this",
+  "main": "test.js",
+  "repository": "https://github.com/ibrahimhassan1910/YARN.0",
+  "author": "hassan ibrahim",
+  "license": "MIT",
+  "private": false
+}
